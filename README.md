@@ -4,6 +4,7 @@ This project came to be because I was feeling frustrated by how much noise a nor
 
 First prototyped on a breadboard and mounted in a 3D printed chassi.
 
+When the prototype was confirmed to work I began designing a PCB to make it easier to fit everything in the small footbrint.
 
 
 ![CAD Drawing](https://github.com/DonStroganotti/Optical-Guitar-Pickup/blob/main/Images/pickup%20CAD.PNG)
